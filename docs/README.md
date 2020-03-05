@@ -19,7 +19,7 @@ Align rows from two spreadsheets with a common ID column.
 
 ## Getting Started
 
-# Run From Ribbon
+### Run From Ribbon
 
 1. Download [ExcelMacros](https://raw.githubusercontent.com/brainite/OfficeMacros/master/ExcelMacros.xlsm) and save where it can remain accessible
 1. Open ExcelMacros in Excel
@@ -32,7 +32,7 @@ Align rows from two spreadsheets with a common ID column.
    1. Click "OK" to close the window
 1. In the future, you can use the macros without opening the file first
 
-# Developing OfficeMacros
+### Developing OfficeMacros
 
 1. Clone from GitHub
 1. Resume the instructions from step 2 above
